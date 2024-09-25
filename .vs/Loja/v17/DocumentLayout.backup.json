@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\enderecoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\enderecoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\enderecoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\compras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\enderecoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\vasco\\onedrive\\\u00E1rea de trabalho\\loja pedro\\loja\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:53:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:00:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnderecoesController.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\EnderecoesController.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\EnderecoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:11:16.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:14:56.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:10:19.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:03:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:58:55.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:53:58.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:40:23.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:45:10.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:10:13.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:07:20.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T22:50:46.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Details.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Details.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:13:07.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:11:16.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Enderecoes\\Details.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:08:47.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:02:33.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T22:56:34.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Compras\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T22:52:02.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vasco\\OneDrive\\\u00C1rea de Trabalho\\Loja pedro\\Loja\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T22:49:22.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
